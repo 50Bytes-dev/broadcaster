@@ -5,6 +5,12 @@ build-backend = "hatchling.build"
 [tool.poetry]
 name = "broadcaster"
 version = "0.2.0"
+description = "Simple broadcast channels."
+readme = "README.md"
+authors = [
+    { name = "Tom Christie", email = "tom@tomchristie.com" },
+]
+license = "BSD-3-Clause"
 
 [project]
 name = "broadcaster"
