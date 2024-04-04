@@ -9,7 +9,7 @@ packages = []
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.12"
-anyio = "^3.4.0"
+anyio = ">=3.4.0"
 
 [tool.poetry.extras]
 redis = ["redis"]
